@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Design Tools](https://github.com/ShreyaPrasad1209/Design-Tools)
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Flutter**
 
 - 📝 I regulary write articles on [https://medium.com/@shreyapd06](https://medium.com/@shreyapd06)
 
