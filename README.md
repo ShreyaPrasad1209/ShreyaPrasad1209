@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently improving my competitive coding skills.
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Android and React**
 
-- 📝 I regulary write articles on [https://medium.com/@shreyapd06](https://medium.com/@shreyapd06)
+- 📝 I regularly write articles on [https://medium.com/@shreyapd06](https://medium.com/@shreyapd06)
 
 - 💬 Ask me about **JavaScript and C++**
 
