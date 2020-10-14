@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaprasad1209" alt="shreyaprasad1209" /> </p>
 
-- 🔭 I’m currently improving my competitive coding skills.
+- 🔭 I’m currently working on my personal portfolio.
 
 - 🌱 I’m currently learning **Android and React**
 
