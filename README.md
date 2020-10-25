@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my personal portfolio.
 
-- 🌱 I’m currently learning **Android and React**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://medium.com/@shreyapd06](https://medium.com/@shreyapd06)
 
