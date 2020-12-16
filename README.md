@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaprasad1209" alt="shreyaprasad1209" /> </p>
 
-- 🔭 I’m working on my personal project.
+- 🔭 I’m contributing to **CircuitVerse** as a frontend developer.
 
-- 🌱 I’m currently learning **React and Android**
+- 🌱 I’m currently learning **Ruby on Rails and Android**
 
 - 📝 I regularly write articles on [https://medium.com/@shreyapd06](https://medium.com/@shreyapd06)
 
