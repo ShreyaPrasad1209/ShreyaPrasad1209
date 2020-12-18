@@ -5,7 +5,7 @@
 
 - 🔭 I’m contributing to **CircuitVerse** as a frontend developer.
 
-- 🌱 I’m currently learning **Ruby on Rails and Android**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📝 I regularly write articles on [https://medium.com/@shreyapd06](https://medium.com/@shreyapd06)
 
