@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shreyapd06@gmail.com**
 
-- ⚡ My Superpower: Multitasking. Some hats I wear - Software Developer, Public Speaker, Product Manager, Mentor and the list goes on!
+- ⚡ My Superpower: Multitasking! Some hats I wear - Software Developer, Public Speaker, Product Manager, Mentor, Technical Writer and the list goes on!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
