@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shreyapd06@gmail.com**
 
-- ⚡ My Superpower: Multitasking. Some hats I wear - Software Developer, Public Speaker, Product Manager, Mentor, Friend and the list goes on!
+- ⚡ My Superpower: Multitasking. Some hats I wear - Software Developer, Public Speaker, Product Manager, Mentor and the list goes on!
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> 
