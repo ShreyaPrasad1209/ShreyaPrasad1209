@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Prasad</h1>
 <h3 align="center">Changing the world one pixel at a time!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaprasad1209" alt="shreyaprasad1209" /> </p>
-
 - 🔭 I’m contributing to **CircuitVerse** as a frontend developer and product manager.
 
 - 🌱 I’m currently learning **Angular and Spring**
@@ -40,6 +38,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+
+  ![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaPrasad1209&show_icons=true&hide_border=true)
+  <br />
+   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyaPrasad1209.ShreyaPrasad1209)
 
 <p align="center">
 <a href="https://twitter.com/shreyacasmalert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/shreyacasmalert" height="20" width="20" /></a>
