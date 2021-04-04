@@ -43,16 +43,12 @@
   <br />
    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyaPrasad1209.ShreyaPrasad1209)
 
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
 <p align="center">
 <a href="https://twitter.com/shreyacasmalert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/shreyacasmalert" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/-shreya-prasad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/-shreya-prasad/" height="20" width="20" /></a>
 <a href="https://instagram.com/shreyacasmalert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shreyacasmalert" height="20" width="20" /></a>
 <a href="https://medium.com/@shreyapd06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shreyapd06" height="20" width="20" /></a>
-</p>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/-shreya-prasad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shreya%20Prasad-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:shreyapd06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shreyapd06@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
