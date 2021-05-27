@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Prasad</h1>
 <h3 align="center">Changing the world one pixel at a time!</h3>
 
-- 🔭 I’m contributing to **CircuitVerse** as a frontend developer and product manager.
+- 🔭 I’m contributing to **CircuitVerse** as a frontend developer and project manager.
 
 - 🌱 I’m currently learning **Angular and Spring**
 
