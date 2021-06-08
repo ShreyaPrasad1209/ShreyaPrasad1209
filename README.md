@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shreyapd06@gmail.com**
 
-- ⚡ Fun fact: I have a Computer Engineering background but the most credit goes to Google and Stack Overflow 😪
+- ⚡ Fun fact: I have a Computer Engineering background but most of the credit goes to Google and Stack Overflow 😪
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
