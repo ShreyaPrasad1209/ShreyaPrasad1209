@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular and Spring**
 
-- 📝 I regularly practice DSA questions on [LeetCode](https://leetcode.com/shreyapd06/) and always up for quick coding brainstorming sessions!
+- 📝 I regularly practice DSA questions on LeetCode and always up for quick coding brainstorming sessions!
 
 - 💬 Ask me about **JavaScript and C++**
 
