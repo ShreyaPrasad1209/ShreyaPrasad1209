@@ -41,6 +41,7 @@
 
   ![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaPrasad1209&show_icons=true&hide_border=true)
   <br />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyaPrasad1209s&" alt="Shreya-Prasad" /></p>
    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyaPrasad1209.ShreyaPrasad1209)
 
 
