@@ -3,7 +3,7 @@
 
 - 🔭 I’m contributing to **CircuitVerse** as a frontend developer and project manager.
 
-- 🌱 I’m currently learning **Angular and Spring**
+- 🌱 I’m currently learning **Angular and Spring Boot**
 
 - 📝 I regularly practice DSA questions on LeetCode and always up for quick coding brainstorming sessions!
 
