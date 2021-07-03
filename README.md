@@ -4,18 +4,13 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
    [**You like what you see? Then nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+   
+   ## About Me :wave:
+<a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+Hey! I'm Shreya, a 22 year old software engineer at [Intuit](https://github.com/intuit) working out of New Delhi, India. I'm working on web development projects on GitHub for everybody to use which you can find here! I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a frontend developer and project manager. I’m learning **Angular and Spring Boot**
+I regularly practice DSA questions on [LeetCode](https://leetcode.com/shreyapd06/) and always up for quick coding brainstorming sessions!
 
-- 🔭 I’m contributing to **CircuitVerse** as a frontend developer and project manager.
-
-- 🌱 I’m learning **Angular and Spring Boot**
-
-- 📝 I regularly practice DSA questions on LeetCode and always up for quick coding brainstorming sessions!
-
-- 💬 Ask me about **JavaScript and C++**
-
-- 📫 How to reach me **shreyapd06@gmail.com**
-
-- ⚡ Fun fact: I have a Computer Engineering background but most of the credit goes to Google and Stack Overflow 😪
+⚡ Fun fact: I have a Computer Engineering background but most of the credit goes to Google and Stack Overflow 😪
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -52,12 +47,3 @@
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreyaPrasad1209&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://twitter.com/shreyacasmalert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/shreyacasmalert" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/-shreya-prasad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/-shreya-prasad/" height="20" width="20" /></a>
-<a href="https://instagram.com/shreyacasmalert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shreyacasmalert" height="20" width="20" /></a>
-<a href="https://medium.com/@shreyapd06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shreyapd06" height="20" width="20" /></a>
-</p>
