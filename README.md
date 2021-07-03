@@ -38,12 +38,13 @@ I regularly practice DSA questions on [LeetCode](https://leetcode.com/shreyapd06
 
 <br/>
 
-[![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/ShreyaPrasad1209)
+  [![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/ShreyaPrasad1209)
   
-   ![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaPrasad1209&show_icons=true&hide_border=true)
-  <br />
+   ![Shreya's github stats](https://github-readme-stats.vercel.app/api/?username=ShreyaPrasad1209&theme=prussian&show_icons=true&count_private=true)
+   <br />
+   <br />
    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyaPrasad1209.ShreyaPrasad1209)
    <br />
    <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreyaPrasad1209&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreyaPrasad1209&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
