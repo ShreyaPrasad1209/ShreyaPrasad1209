@@ -1,5 +1,9 @@
 <h1 align="center">Hey I'm Shreya Prasad <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h3 align="center">Changing the world one pixel at a time!</h3>
+<h2 align="center">Changing the world one pixel at a time!</h2>
+
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
+   [**You like what you see? Then nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 
 - 🔭 I’m contributing to **CircuitVerse** as a frontend developer and project manager.
 
