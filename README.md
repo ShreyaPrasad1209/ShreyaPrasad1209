@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya Prasad</h1>
+<h1 align="center">Hey I'm Shreya Prasad <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h3 align="center">Changing the world one pixel at a time!</h3>
 
 - 🔭 I’m contributing to **CircuitVerse** as a frontend developer and project manager.
@@ -39,6 +39,7 @@
 
 <br/>
 
+[![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/ShreyaPrasad1209)
   
    ![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaPrasad1209&show_icons=true&hide_border=true)
   <br />
