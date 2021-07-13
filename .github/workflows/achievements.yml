@@ -5,6 +5,13 @@ index: 17
 supports:
   - user
   - organization
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
+  workflow_dispatch:
+  push: {branches: ["master", "main"]} 
+  
 inputs:
 
   # Enable or disable plugin
