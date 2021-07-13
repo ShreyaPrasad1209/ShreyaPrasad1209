@@ -1,0 +1,18 @@
+  
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * sun"}] # Runs weekly every Sunday 00:00
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Metrics.svg
+      - uses: lowlighter/metrics@latest
+        name: Skyline
+        with:
+          plugin_skyline: yes
+          plugin_skyline_year: 2021      
+          plugin_skyline_frames: 60       
+          plugin_skyline_quality: 1   
+          plugin_skyline_compatibility: yes # Supports Firefox and Safari
+          token: ${{ secrets.GH_TOKEN }}
