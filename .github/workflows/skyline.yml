@@ -18,4 +18,4 @@ jobs:
           plugin_skyline_frames: 60       
           plugin_skyline_quality: 1   
           plugin_skyline_compatibility: yes # Supports Firefox and Safari
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.METRICS }}
