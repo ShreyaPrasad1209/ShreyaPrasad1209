@@ -1,7 +1,10 @@
   
 name: Metrics
+
 on:
   schedule: [{cron: "0 0 * * sun"}] # Runs weekly every Sunday 00:00
+  workflow_dispatch:  
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
