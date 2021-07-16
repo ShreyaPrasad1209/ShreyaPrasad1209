@@ -44,9 +44,6 @@ Hey! I'm Shreya, a 22 year old software engineer at [**Intuit**](https://github.
    ![Shreya's github stats](https://github-readme-stats.vercel.app/api/?username=ShreyaPrasad1209&theme=prussian&show_icons=true&count_private=true)
    <br />
    <br />
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyaPrasad1209.ShreyaPrasad1209)
-   <br />
-   <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreyaPrasad1209&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
