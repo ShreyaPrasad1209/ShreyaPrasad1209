@@ -1,15 +1,15 @@
-<h1 align="center">Hey I'm Shreya Prasad <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1 align="center">Hey, I'm Shreya Prasad <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">Changing the world one pixel at a time!</h2>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-   [**You like what you see? Then nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
    ## :wave: About Me 
 <a href="https://twitter.com/shreyacasmalert" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/-shreya-prasad/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Shreya, a 22 year old software engineer at [**Intuit**](https://github.com/intuit) working out of New Delhi, India. I have a soft spot for technology and communities 💖. I am a [**GitHub Campus Expert**](https://githubcampus.expert/ShreyaPrasad1209/) and also a part of [**GitHub Education Stream Team**](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) :octocat:! I'm working on web development projects on GitHub for everybody to use which you can find here! I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a frontend developer and project manager. Nowadays I’m learning Angular and Spring Boot. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/shreyapd06/) and always up for quick coding brainstorming sessions! I am an open source and D&I advocate with side hustles as Product Management and Developer Relations roles. 
+Hey! I'm Shreya, a 22 year old software engineer at [**Intuit**](https://github.com/intuit) working out of New Delhi, India. I have a soft spot for technology and communities 💖 I am a [**GitHub Campus Expert**](https://githubcampus.expert/ShreyaPrasad1209/) and also a part of [**GitHub Education Stream Team**](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) :octocat:! I'm working on web development projects on GitHub for everybody to use which you can find here! I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a front-end developer and project manager. Nowadays, I’m learning Angular and Spring Boot. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/shreyapd06/) and always up for quick coding brainstorming sessions! I am an open source and D&I advocate with side hustles as Product Management and Developer Relations roles. 
 
-⚡ Fun fact: I have a Computer Engineering background but most of the credit goes to Google and Stack Overflow 😪
+⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
 <br> 
 
@@ -39,9 +39,9 @@ Hey! I'm Shreya, a 22 year old software engineer at [**Intuit**](https://github.
 
 <br/>
 
-  [![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/ShreyaPrasad1209)
+  [![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/ShreyaPrasad1209)
   
-   ![Shreya's github stats](https://github-readme-stats.vercel.app/api/?username=ShreyaPrasad1209&theme=prussian&show_icons=true&count_private=true)
+   ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ShreyaPrasad1209&theme=prussian&show_icons=true&count_private=true)
    <br />
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreyaPrasad1209&theme=prussian&hide_border=true)](https://git.io/streak-stats)
