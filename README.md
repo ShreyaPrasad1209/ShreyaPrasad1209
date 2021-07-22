@@ -50,8 +50,6 @@
 <br/>
 
   [![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/ShreyaPrasad1209)
-  
-   ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ShreyaPrasad1209&theme=prussian&show_icons=true&count_private=true)
    <br />
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreyaPrasad1209&theme=prussian&hide_border=true)](https://git.io/streak-stats)
