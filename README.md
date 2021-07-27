@@ -15,7 +15,6 @@
 
 👩‍💻 Nowadays, I’m learning Angular and Spring Boot. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/shreyapd06/) and always up for quick coding brainstorming sessions! 
 
-🔥  I am an open source and D&I advocate with side hustles as Product Management and Developer Relations roles. 
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
