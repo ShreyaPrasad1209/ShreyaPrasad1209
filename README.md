@@ -13,7 +13,7 @@
 
 💖 I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a front-end developer and project manager. 
 
-👩‍💻 Nowadays, I’m learning Angular and Spring Boot. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/shreyapd06/) and always up for quick coding brainstorming sessions! 
+👩‍💻 Nowadays, I’m learning Mobile and Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/shreyapd06/) and always up for quick coding brainstorming sessions! 
 
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
