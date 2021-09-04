@@ -18,7 +18,6 @@
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
-✍🏻 I regularly write technical blogs - [Dev.to](https://dev.to/shreyapd06). Currently creating a blog series to simplify Angular concepts! 
 
 <br> 
 
