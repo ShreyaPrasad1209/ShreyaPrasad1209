@@ -18,6 +18,8 @@
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
+💸 You can support my OSS work by [buying me a beer 🍺](https://www.buymeacoffee.com/shreyacasmalert)
+
 
 <br> 
 
