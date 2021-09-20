@@ -13,7 +13,7 @@
 
 💖 I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a front-end developer and project manager. 
 
-👩‍💻 Nowadays, I’m learning Kotlin, Swift, Next.js and System Design.  
+👩‍💻 Nowadays, I’m learning Spring Boot with Kotlin, iOS development, Next.js and System Design.  
 
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
