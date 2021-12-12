@@ -10,15 +10,13 @@
 👩‍🎓 Hey! I'm Shreya, a 22 year old software engineer at [**Intuit**](https://github.com/intuit) working out of New Delhi, India. My preferred pronouns are **she/her**.
 
 :octocat: I have a soft spot for technology and communities 💖 I am a [**GitHub Campus Expert**](https://githubcampus.expert/ShreyaPrasad1209/) and also a part of [**GitHub Education Stream Team**](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) :octocat:! 
+ 
 
-💖 I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a front-end developer and project manager. 
-
-👩‍💻 Nowadays, I’m learning Spring Boot with Kotlin, iOS development, Next.js and System Design.  
-
+👩‍💻 Nowadays, I’m learning Spring Boot with Kotlin and AWS.  
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
-💸 You can support my OSS work by [buying me a beer 🍺](https://www.buymeacoffee.com/shreyacasmalert)
+💸 You can support my OSS work by [buying me a pizza 🍕 ](https://www.buymeacoffee.com/shreyacasmalert)
 
 
 <br> 
