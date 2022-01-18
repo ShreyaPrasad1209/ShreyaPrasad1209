@@ -12,7 +12,7 @@
 :octocat: I have a soft spot for technology and communities 💖 I am a [**GitHub Campus Expert**](https://githubcampus.expert/ShreyaPrasad1209/) and also a part of [**GitHub Education Stream Team**](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) :octocat:! 
  
 
-👩‍💻 Nowadays, I’m learning Spring Boot with Kotlin and AWS.  
+👩‍💻 Nowadays, I’m learning Spring Boot and AWS.  
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
