@@ -16,7 +16,7 @@ Software Engineer
 * ✉️  You can contact me at [shreyapd06@gmail.com](mailto:shreyapd06@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow xD
+* ⚡  I have a CS background, but most of the credit goes to Google and Stack Overflow xD
 
 <a href="https://www.twitter.com/shreyacasmalert" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/shreyacasmalert?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
