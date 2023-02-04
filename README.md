@@ -55,7 +55,6 @@ src="https://img.shields.io/twitter/follow/shreyacasmalert?logo=twitter&style=fo
 
 <a href="http://www.github.com/ShreyaPrasad1209"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyaPrasad1209&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ShreyaPrasad1209"><img src="https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Book your time with me
 
